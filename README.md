@@ -88,19 +88,19 @@ Upload the dataset
 Upload spam.csv when prompted
 Try predictions
 Enter any email message in the UI box and click “Predict”
+---
 
-💌 Acknowledgements
-SMS Spam Collection Dataset by UCI
-scikit-learn & NLTK community
-Open-source contributors
+📷 Screenshots
+- Spam detector interface
+- Final UI img of our Project: 
+![Screenshot 2025-04-17 065516](https://github.com/user-attachments/assets/5a02d118-c6e5-448c-8b83-311be95188b2)
+![Screenshot 2025-04-17 065616](https://github.com/user-attachments/assets/304e8edc-6b3b-4064-99e5-83c3bb434c34)
 
-📷 Screenshots (Optional)
-Spam detector interface
 
-Accuracy scores
+- Accuracy scores
 ![image](https://github.com/user-attachments/assets/65aecb04-b1d2-4f53-99b8-20195ac4b60a)
 
-Confusion matrix plot
+- Confusion matrix plot
 ![image](https://github.com/user-attachments/assets/18e08afe-e1d2-44f6-b274-96f4cedbf0d0)
 
 🤝 Contributions
