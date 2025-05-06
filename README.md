@@ -1,4 +1,9 @@
 # 📧 AI Real-Time Spam Email Detector
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
+
 
 An AI-powered real-time spam detection system built using Natural Language Processing (NLP), TF-IDF vectorization, and the Multinomial Naive Bayes classification algorithm.
 
